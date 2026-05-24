@@ -57,19 +57,16 @@ Junior Software Developer | C++ & C# Developer
 
 ---
 
-# 📂 Projects
 
-## 📌 Bank System
-> Console application using C++ and OOP concepts.
+## 🚀 Projects
 
-## 📌 Management System
-> Desktop application using C# and SQL Server.
+<p align="center">
 
-## 📌 Database Design Projects
-> Designing ERD & Relational Schema for database systems.
+<a href="https://github.com/Moh98Mekky/Tic-Tac-Toe-Game">
+  <img src="https://github.com/Moh98Mekky/Tic-Tac-Toe-Game/blob/f7711e0b585fc9ddb866b495797f954973f072b1/Project%20Images/1.png" width="400"/>
+</a>
 
-## 📌 Data Structures Implementations
-> Implementing linked lists, stacks, queues, and more using C++.
+</p>
 
 ---
 
