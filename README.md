@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Mekky</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Mekky</h1>
 
 <p align="center">
 Junior Software Developer | C++ & C# Developer
