@@ -59,9 +59,8 @@ Junior Software Developer | C++ & C# Developer
 
 
 ## 🚀 Projects
-
+### 📌 Click on the image below to view the project
 <p align="center">
-
 <a href="https://github.com/Moh98Mekky/Tic-Tac-Toe-Game">
   <img src="https://github.com/Moh98Mekky/Tic-Tac-Toe-Game/blob/f7711e0b585fc9ddb866b495797f954973f072b1/Project%20Images/1.png" width="400"/>
 </a>
